@@ -1,0 +1,216 @@
+2023-12-14/11:36:42		Start of Training
+2023-12-14/11:36:42		Entered the get_data method of the Data_Getter class
+2023-12-14/11:36:44		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-12-14/11:36:44		Entered the remove_columns method of the Preprocessor class
+2023-12-14/11:36:44		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2023-12-14/11:36:45		Entered the make_dummy_df method of the Preprocessor class
+2023-12-14/11:36:45		Dummy df method successful. Exited the make_dummy_df method of the Preprocessor class
+2023-12-14/11:36:45		Entered the remove_columns method of the Preprocessor class
+2023-12-14/11:36:45		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2023-12-14/11:36:45		Entered the separate_label_feature method of the Preprocessor class
+2023-12-14/11:36:45		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-12-14/11:36:45		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2023-12-14/11:37:50		Random Forest best params: {'criterion': 'gini', 'max_depth': 12, 'max_features': 5, 'min_samples_leaf': 5, 'min_samples_split': 5, 'n_estimators': 100}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2023-12-14/11:37:58		Unsuccessful End of Training
+2023-12-14/11:40:45		Start of Training
+2023-12-14/11:40:45		Entered the get_data method of the Data_Getter class
+2023-12-14/11:40:45		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-12-14/11:40:46		Entered the remove_columns method of the Preprocessor class
+2023-12-14/11:40:46		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2023-12-14/11:40:46		Entered the make_dummy_df method of the Preprocessor class
+2023-12-14/11:40:46		Dummy df method successful. Exited the make_dummy_df method of the Preprocessor class
+2023-12-14/11:40:46		Entered the remove_columns method of the Preprocessor class
+2023-12-14/11:40:46		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2023-12-14/11:40:46		Entered the separate_label_feature method of the Preprocessor class
+2023-12-14/11:40:46		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-12-14/11:40:46		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2023-12-14/11:41:51		Random Forest best params: {'criterion': 'gini', 'max_depth': 12, 'max_features': 5, 'min_samples_leaf': 5, 'min_samples_split': 5, 'n_estimators': 100}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2023-12-14/11:41:58		Unsuccessful End of Training
+2023-12-14/11:43:58		Start of Training
+2023-12-14/11:43:58		Entered the get_data method of the Data_Getter class
+2023-12-14/11:43:58		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-12-14/11:43:59		Entered the remove_columns method of the Preprocessor class
+2023-12-14/11:43:59		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2023-12-14/11:43:59		Entered the make_dummy_df method of the Preprocessor class
+2023-12-14/11:43:59		Dummy df method successful. Exited the make_dummy_df method of the Preprocessor class
+2023-12-14/11:43:59		Entered the remove_columns method of the Preprocessor class
+2023-12-14/11:43:59		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2023-12-14/11:43:59		Entered the separate_label_feature method of the Preprocessor class
+2023-12-14/11:43:59		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-12-14/11:43:59		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2023-12-14/11:45:04		Random Forest best params: {'criterion': 'gini', 'max_depth': 12, 'max_features': 5, 'min_samples_leaf': 5, 'min_samples_split': 5, 'n_estimators': 100}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2023-12-14/11:45:12		Unsuccessful End of Training
+2023-12-14/11:46:54		Start of Training
+2023-12-14/11:46:54		Entered the get_data method of the Data_Getter class
+2023-12-14/11:46:54		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-12-14/11:46:55		Entered the remove_columns method of the Preprocessor class
+2023-12-14/11:46:55		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2023-12-14/11:46:55		Entered the make_dummy_df method of the Preprocessor class
+2023-12-14/11:46:55		Dummy df method successful. Exited the make_dummy_df method of the Preprocessor class
+2023-12-14/11:46:55		Entered the remove_columns method of the Preprocessor class
+2023-12-14/11:46:55		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2023-12-14/11:46:55		Entered the separate_label_feature method of the Preprocessor class
+2023-12-14/11:46:55		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-12-14/11:46:55		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2023-12-14/11:48:02		Random Forest best params: {'criterion': 'gini', 'max_depth': 12, 'max_features': 5, 'min_samples_leaf': 5, 'min_samples_split': 5, 'n_estimators': 100}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2023-12-14/11:48:18		Unsuccessful End of Training
+2023-12-14/11:49:40		Start of Training
+2023-12-14/11:49:40		Entered the get_data method of the Data_Getter class
+2023-12-14/11:49:41		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-12-14/11:49:42		Entered the remove_columns method of the Preprocessor class
+2023-12-14/11:49:42		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2023-12-14/11:49:42		Entered the make_dummy_df method of the Preprocessor class
+2023-12-14/11:49:42		Dummy df method successful. Exited the make_dummy_df method of the Preprocessor class
+2023-12-14/11:49:42		Entered the remove_columns method of the Preprocessor class
+2023-12-14/11:49:42		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2023-12-14/11:49:42		Entered the separate_label_feature method of the Preprocessor class
+2023-12-14/11:49:42		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-12-14/11:49:42		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2023-12-14/11:49:42		Exception occured in get_best_params_for_random_forest method of the Model_Finder class. Exception message:  k-fold cross-validation requires at least one train/test split by setting n_splits=2 or more, got n_splits=1.
+2023-12-14/11:49:42		Random Forest Parameter tuning  failed. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2023-12-14/11:49:42		Unsuccessful End of Training
+2023-12-14/11:51:01		Start of Training
+2023-12-14/11:51:01		Entered the get_data method of the Data_Getter class
+2023-12-14/11:51:01		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-12-14/11:51:02		Entered the remove_columns method of the Preprocessor class
+2023-12-14/11:51:02		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2023-12-14/11:51:02		Entered the make_dummy_df method of the Preprocessor class
+2023-12-14/11:51:02		Dummy df method successful. Exited the make_dummy_df method of the Preprocessor class
+2023-12-14/11:51:02		Entered the remove_columns method of the Preprocessor class
+2023-12-14/11:51:02		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2023-12-14/11:51:02		Entered the separate_label_feature method of the Preprocessor class
+2023-12-14/11:51:02		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-12-14/11:51:03		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2023-12-14/11:51:03		Exception occured in get_best_params_for_random_forest method of the Model_Finder class. Exception message:  k-fold cross-validation requires at least one train/test split by setting n_splits=2 or more, got n_splits=1.
+2023-12-14/11:51:03		Random Forest Parameter tuning  failed. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2023-12-14/11:51:03		Unsuccessful End of Training
+2023-12-14/11:52:14		Start of Training
+2023-12-14/11:52:14		Entered the get_data method of the Data_Getter class
+2023-12-14/11:52:14		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-12-14/11:52:15		Entered the remove_columns method of the Preprocessor class
+2023-12-14/11:52:15		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2023-12-14/11:52:15		Entered the make_dummy_df method of the Preprocessor class
+2023-12-14/11:52:15		Dummy df method successful. Exited the make_dummy_df method of the Preprocessor class
+2023-12-14/11:52:15		Entered the remove_columns method of the Preprocessor class
+2023-12-14/11:52:15		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2023-12-14/11:52:15		Entered the separate_label_feature method of the Preprocessor class
+2023-12-14/11:52:15		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-12-14/11:52:15		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2023-12-14/11:52:47		Random Forest best params: {'criterion': 'gini', 'max_depth': 12, 'max_features': 5, 'min_samples_leaf': 5, 'min_samples_split': 5, 'n_estimators': 100}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2023-12-14/11:53:01		Unsuccessful End of Training
+2023-12-14/11:54:34		Start of Training
+2023-12-14/11:54:34		Entered the get_data method of the Data_Getter class
+2023-12-14/11:54:34		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-12-14/11:54:35		Entered the remove_columns method of the Preprocessor class
+2023-12-14/11:54:35		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2023-12-14/11:54:35		Entered the make_dummy_df method of the Preprocessor class
+2023-12-14/11:54:35		Dummy df method successful. Exited the make_dummy_df method of the Preprocessor class
+2023-12-14/11:54:35		Entered the remove_columns method of the Preprocessor class
+2023-12-14/11:54:35		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2023-12-14/11:54:35		Entered the separate_label_feature method of the Preprocessor class
+2023-12-14/11:54:35		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-12-14/11:54:36		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2023-12-14/11:55:09		Random Forest best params: {'criterion': 'gini', 'max_depth': 12, 'max_features': 5, 'min_samples_leaf': 5, 'min_samples_split': 5, 'n_estimators': 100}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2023-12-14/11:55:23		Unsuccessful End of Training
+2023-12-14/11:57:47		Start of Training
+2023-12-14/11:57:47		Entered the get_data method of the Data_Getter class
+2023-12-14/11:57:47		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-12-14/11:57:48		Entered the remove_columns method of the Preprocessor class
+2023-12-14/11:57:48		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2023-12-14/11:57:48		Entered the make_dummy_df method of the Preprocessor class
+2023-12-14/11:57:48		Dummy df method successful. Exited the make_dummy_df method of the Preprocessor class
+2023-12-14/11:57:48		Entered the remove_columns method of the Preprocessor class
+2023-12-14/11:57:48		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2023-12-14/11:57:48		Entered the separate_label_feature method of the Preprocessor class
+2023-12-14/11:57:48		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-12-14/11:57:48		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2023-12-14/11:58:21		Random Forest best params: {'criterion': 'gini', 'max_depth': 12, 'max_features': 5, 'min_samples_leaf': 5, 'min_samples_split': 5, 'n_estimators': 100}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2023-12-14/11:58:37		Successful End of Training
+2023-12-14/12:11:36		Start of Training
+2023-12-14/12:11:36		Entered the get_data method of the Data_Getter class
+2023-12-14/12:11:37		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-12-14/12:11:37		Entered the remove_columns method of the Preprocessor class
+2023-12-14/12:11:38		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2023-12-14/12:11:38		Entered the make_dummy_df method of the Preprocessor class
+2023-12-14/12:11:38		Dummy df method successful. Exited the make_dummy_df method of the Preprocessor class
+2023-12-14/12:11:38		Entered the remove_columns method of the Preprocessor class
+2023-12-14/12:11:38		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2023-12-14/12:11:38		Entered the separate_label_feature method of the Preprocessor class
+2023-12-14/12:11:38		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-12-14/12:11:38		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2023-12-14/12:27:43		Start of Training
+2023-12-14/12:27:43		Entered the get_data method of the Data_Getter class
+2023-12-14/12:27:43		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-12-14/12:27:44		Entered the remove_columns method of the Preprocessor class
+2023-12-14/12:27:44		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2023-12-14/12:27:44		Entered the make_dummy_df method of the Preprocessor class
+2023-12-14/12:27:45		Dummy df method successful. Exited the make_dummy_df method of the Preprocessor class
+2023-12-14/12:27:45		Entered the remove_columns method of the Preprocessor class
+2023-12-14/12:27:45		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2023-12-14/12:27:45		Entered the separate_label_feature method of the Preprocessor class
+2023-12-14/12:27:45		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-12-14/12:27:45		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2023-12-14/12:29:39		Start of Training
+2023-12-14/12:29:39		Entered the get_data method of the Data_Getter class
+2023-12-14/12:29:40		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-12-14/12:29:40		Entered the remove_columns method of the Preprocessor class
+2023-12-14/12:29:40		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2023-12-14/12:29:41		Entered the make_dummy_df method of the Preprocessor class
+2023-12-14/12:29:41		Dummy df method successful. Exited the make_dummy_df method of the Preprocessor class
+2023-12-14/12:29:41		Entered the remove_columns method of the Preprocessor class
+2023-12-14/12:29:41		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2023-12-14/12:29:41		Entered the separate_label_feature method of the Preprocessor class
+2023-12-14/12:29:41		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-12-14/12:29:41		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2023-12-14/12:31:01		Start of Training
+2023-12-14/12:31:01		Entered the get_data method of the Data_Getter class
+2023-12-14/12:31:02		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-12-14/12:31:03		Entered the remove_columns method of the Preprocessor class
+2023-12-14/12:31:03		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2023-12-14/12:31:03		Entered the make_dummy_df method of the Preprocessor class
+2023-12-14/12:31:03		Dummy df method successful. Exited the make_dummy_df method of the Preprocessor class
+2023-12-14/12:31:03		Entered the remove_columns method of the Preprocessor class
+2023-12-14/12:31:03		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2023-12-14/12:31:03		Entered the separate_label_feature method of the Preprocessor class
+2023-12-14/12:31:03		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-12-14/12:31:03		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2023-12-14/12:33:17		Start of Training
+2023-12-14/12:33:17		Entered the get_data method of the Data_Getter class
+2023-12-14/12:33:17		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-12-14/12:33:18		Entered the remove_columns method of the Preprocessor class
+2023-12-14/12:33:18		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2023-12-14/12:33:18		Entered the make_dummy_df method of the Preprocessor class
+2023-12-14/12:33:18		Dummy df method successful. Exited the make_dummy_df method of the Preprocessor class
+2023-12-14/12:33:18		Entered the remove_columns method of the Preprocessor class
+2023-12-14/12:33:18		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2023-12-14/12:33:18		Entered the separate_label_feature method of the Preprocessor class
+2023-12-14/12:33:18		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-12-14/12:33:18		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2023-12-14/21:00:34		Start of Training
+2023-12-14/21:00:34		Entered the get_data method of the Data_Getter class
+2023-12-14/21:00:36		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-12-14/21:00:37		Entered the remove_columns method of the Preprocessor class
+2023-12-14/21:00:38		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2023-12-14/21:00:38		Entered the make_dummy_df method of the Preprocessor class
+2023-12-14/21:00:38		Dummy df method successful. Exited the make_dummy_df method of the Preprocessor class
+2023-12-14/21:00:38		Entered the remove_columns method of the Preprocessor class
+2023-12-14/21:00:38		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2023-12-14/21:00:38		Entered the separate_label_feature method of the Preprocessor class
+2023-12-14/21:00:38		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-12-14/21:00:38		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2023-12-14/21:01:43		Random Forest best params: {'criterion': 'gini', 'max_depth': 12, 'max_features': 5, 'min_samples_leaf': 5, 'min_samples_split': 5, 'n_estimators': 100}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2023-12-14/21:02:06		Successful End of Training
+2023-12-14/21:00:56		Start of Training
+2023-12-14/21:00:56		Entered the get_data method of the Data_Getter class
+2023-12-14/21:00:57		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-12-14/21:00:58		Entered the remove_columns method of the Preprocessor class
+2023-12-14/21:00:58		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2023-12-14/21:00:58		Entered the make_dummy_df method of the Preprocessor class
+2023-12-14/21:00:59		Dummy df method successful. Exited the make_dummy_df method of the Preprocessor class
+2023-12-14/21:00:59		Entered the remove_columns method of the Preprocessor class
+2023-12-14/21:00:59		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2023-12-14/21:00:59		Entered the separate_label_feature method of the Preprocessor class
+2023-12-14/21:00:59		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-12-14/21:00:59		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2023-12-14/21:02:08		Random Forest best params: {'criterion': 'gini', 'max_depth': 12, 'max_features': 5, 'min_samples_leaf': 5, 'min_samples_split': 5, 'n_estimators': 100}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2023-12-14/21:02:36		Successful End of Training
